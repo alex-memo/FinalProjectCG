@@ -61,8 +61,11 @@ Reports
 
 *Final Assignment*
 
+Dummy Statue + Textures
 
+Modular Map Model + Textures
 
+Dummy Model + Textures
 
 **Acknowledgements**
 
@@ -71,6 +74,7 @@ The playable character is from Mixamo.
 However, the movement code that makes the character model move is made by our group.
 The current scene map is the practice range which is blocked out using Probuilder.
 
+**Assignment 1:**
 
 **Part 1: Base**
 
@@ -120,6 +124,22 @@ With these LUTs, the colour grading shaders were made. Purple LUT was made into 
 
 
 There are a total of four shaders implemented in this scene. They are: the fireball shader, the outline shader, the shield shader, and the health bar shader. The themes for these were sci fi, comic, and fantasy. The fireball shader was created by Alex. It uses a scrolling texture with a gradient. The top part is covered in order to avoid distortion and then the vertex offset was added to give life to the fireball. The outline shader compares the normals of the screen, if the difference between normals are big enough, then a line is added between the different two normals. The same is done to colours. If colours are too different, an outline is overlaid onto the screen colour. The shield texture has a rim light, scroll effect, and an inner glow effect. Finally the health bar shader is made using the ben day effect. It compares if the pixel colour is greater than 0.3f, that gives us the circles. Both the health and shield bars have gradient effects. The color fades out (0.05) before the end of each bar, creating a fade-out gradient on the last portion of the bar. A smooth step function is applied across a gradient range (from -0.5 to 0.5), then multiplied by a Voronoi effect to add texture. This is applied to both health and shield. The current shield value is subtracted from the health value to create a mask, ensuring that the shield appears on top of the health bar. Colors are multiplied for both health and shield with their respective effects. This creates the intended color and blend effect. Both shield and health bars undergo a max operation for color values, with the shield overlaid on top of the health. To create the alpha mask, we maximize the premultiplied colour texture with their respective ben day effect of the shield and health bar. Then, we saturate it and the alpha mask is the result. After masking, a premultiplied alpha is calculated by saturating values to ensure no alpha exceeds 1, finalizing the transparency effect.
+
+**Final Assignment:**
+
+**Improvements**
+
+There are newly added textures for the map compared to the previous assignment submission. (Camera)
+
+**Texturing**
+
+Texture images are created and finalized by the group. The textures used specifically for the map and dummy statue are both of Marble to create a sophisticated look and feel. This also minimizes player distraction to the environment while they are playing around in the practice tool.
+
+(Talk about texture sampling here in the shaders and how are things being toggled on and off)
+
+**VFX**
+
+(Type here)
 
 This was not the repository that is being worked on, this is a forked repo from Project M, which is private
 =
