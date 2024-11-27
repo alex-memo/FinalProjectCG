@@ -46,6 +46,7 @@ Poisonous Cloud VFX
 
 Paintball impact VFX upgrades
 
+Paintball impact VFX textures
 
 ***Ethan:***
 
@@ -146,7 +147,7 @@ Final Assignment:
 =
 **Improvements**
 
-There are newly added textures for the map compared to the previous assignment submission. Camera has been updated to use new features added to Cinemachine as weel as implementing a zoom for the weapons that need it.
+There are newly added textures for the map compared to the previous assignment submission. Camera has been updated to use new features added to Cinemachine as well as implementing a zoom for the weapons that need it.
 
 **Texturing**
 
@@ -157,6 +158,20 @@ Texture images are created and finalized by the group. The textures used specifi
 **VFX**
 
 (Type here)
+
+Paintball Impact VFX Textures were made in substance designer.
+
+Streaks were reused for the fireball and bodyslam vfx, they were made by hand procreate.
+
+Black Hole Explosion VFX was created with a sphere and a torus with distortion, with 4 sprites for the explosion
+
+Fireball Imapct VFX uses a flare, glow, streaks and camera rotation to ensure that the streaks are always on top where teh camera is facing.
+
+Body Slam VFX was created with 2 glow effects, a cone with a hole in the center, squash and stretch, and streaks.
+
+Jump VFX is reusing a modular ring vfx, modular smoke vfx and core concepts from body slam
+
+Poisonous Cloud VFX is a sphere with a shader to make the illussion of volumetric smoke, with modular smoke particles to make it look like smoke is coming out of the sphere.
 
 This was not the repository that is being worked on, this is a forked repo from Project M, which is private
 =
