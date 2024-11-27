@@ -9,10 +9,10 @@ Ethan Gibson - 100862130
 
 Venus Poon - 100861849
 
-![Video](https://drive.google.com/file/d/12hC4zSfltoqgINoiVY59vc4SyLsTpMUG/view?usp=drive_link)
+![Video](https://drive.google.com/file/d/1FDrMU7xphL2NtYLNjQMafXdLSs9_giqg/view?usp=sharing)
 
 *if link broken*
-https://drive.google.com/file/d/12hC4zSfltoqgINoiVY59vc4SyLsTpMUG/view?usp=drive_link
+https://drive.google.com/file/d/1FDrMU7xphL2NtYLNjQMafXdLSs9_giqg/view?usp=sharing
 
 ***Alex:***
 
@@ -30,7 +30,21 @@ Zone LUT
 
 *Final Assignment*
 
+Backend Code
 
+Black Hole Explosion VFX
+
+Fireball VFX
+
+Fireball Imapct VFX
+
+Jump VFX
+
+Body Slam VFX
+
+Poisonous Cloud VFX
+
+Paintball impact VFX upgrades
 
 
 ***Ethan:***
