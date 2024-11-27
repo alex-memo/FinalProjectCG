@@ -16,6 +16,8 @@ https://drive.google.com/file/d/12hC4zSfltoqgINoiVY59vc4SyLsTpMUG/view?usp=drive
 
 ***Alex:***
 
+*Assignment 1*
+
 Fireball Shader
 
 Shield Shader
@@ -26,8 +28,14 @@ HealthBar Shader
 
 Zone LUT
 
+*Final Assignment*
+
+
+
 
 ***Ethan:***
+
+*Assignment 1*
 
 Unlit
 
@@ -41,10 +49,18 @@ Ambient + Specular + Toon
 
 Ambient + Specular + Breathing
 
+*Final Assignment*
+
+
 
 ***Venus:***
 
+*Assignment 1*
+
 Reports
+
+*Final Assignment*
+
 
 
 
