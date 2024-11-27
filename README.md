@@ -50,8 +50,11 @@ Ambient + Specular + Toon
 Ambient + Specular + Breathing
 
 *Final Assignment*
+Background code to meet deliverables
 
+Paintball impact VFX
 
+Updates to practice range
 
 ***Venus:***
 
@@ -129,7 +132,7 @@ There are a total of four shaders implemented in this scene. They are: the fireb
 
 **Improvements**
 
-There are newly added textures for the map compared to the previous assignment submission. (Camera)
+There are newly added textures for the map compared to the previous assignment submission. Camera has been updated to use new features added to Cinemachine as weel as implementing a zoom for the weapons that need it.
 
 **Texturing**
 
