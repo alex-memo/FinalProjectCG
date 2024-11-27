@@ -153,11 +153,9 @@ There are newly added textures for the map compared to the previous assignment s
 
 Texture images are created and finalized by the group. The textures used specifically for the map and dummy statue are both of Marble to create a sophisticated look and feel. This also minimizes player distraction to the environment while they are playing around in the practice tool.
 
-(Talk about texture sampling here in the shaders and how are things being toggled on and off)
+Methods were added to allow toggling parts of the map when the player inputs the key listed in the PracticeTool scene.
 
 **VFX**
-
-(Type here)
 
 Paintball Impact VFX Textures were made in substance designer.
 
