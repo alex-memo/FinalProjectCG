@@ -14,6 +14,9 @@ Venus Poon - 100861849
 *if link broken*
 https://drive.google.com/file/d/1FDrMU7xphL2NtYLNjQMafXdLSs9_giqg/view?usp=sharing
 
+*For code explanations:*
+https://docs.google.com/document/d/1szqNrgIhF085QIHHwLa5YBssufRFD-E9BiUDgDFfSik/edit?usp=sharing
+
 ***Alex:***
 
 *Assignment 1*
